@@ -1,5 +1,11 @@
 {
- "name": "App",
+ "name": "ILY-Aditi",
+ "short_name": "DevCoffee",
+ "start_url": "index.html",
+ "display": "standalone",
+ "background_color": "#fdfdfd",
+ "theme_color": "#db4938",
+ "orientation": "portrait-primary",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
