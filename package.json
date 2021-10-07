@@ -1,7 +1,7 @@
 {
-  "name": "wedding-website",
+  "name": "lovebook",
   "version": "1.0.1",
-  "description": "A wedding website with loads of features.",
+  "description": "A lovebook of Adarsh & aditi.",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
